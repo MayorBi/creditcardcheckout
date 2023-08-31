@@ -1,0 +1,30 @@
+  body {
+    background-color: #F6F4EB;
+  }
+  
+  
+  .ggg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+
+  }
+
+
+ 
+  #gold {
+    background-color: #91C8E4 ;
+    border: solid #91C8E4;
+    border-width: 20px 10px;
+    
+  }
+
+  #gold .btn {
+    width: 40%;
+    
+  }
+
+  
